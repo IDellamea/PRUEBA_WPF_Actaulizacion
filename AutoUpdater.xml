@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
-    <url>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/download/v1.0.0/PRUEBA_WPF_Actaulizacion.zip</url>
-    <changelog>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/tag/v1.0.0</changelog>
+    <version>1.0.1.0</version>
+    <url>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/download/v1.0.1/PRUEBA_WPF_Actaulizacion.zip</url>
+    <changelog>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/tag/v1.0.1</changelog>
     <mandatory>true</mandatory>
-    <checksum algorithm="MD5">fd03ea0ab5e383df7b3cda979b4d2e9a</checksum>
+    <checksum algorithm="MD5">06176c846372f81725ac40efbe7a9e73</checksum>
 </item>
