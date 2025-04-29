@@ -2,7 +2,7 @@
 <item>
     <version>1.0.1.0</version>
     <url>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/download/v1.0.1/PRUEBA_WPF_Actaulizacion.zip</url>
-    <changelog>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases</changelog>
+    <changelog>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/</changelog>
     <mandatory>true</mandatory>
     <checksum algorithm="MD5">0bf98ca2530221fa1639a6c4950dc6db</checksum>
 </item>
