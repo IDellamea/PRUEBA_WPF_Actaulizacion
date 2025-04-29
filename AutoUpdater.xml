@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
     <url>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/download/v1.0.1/PRUEBA_WPF_Actaulizacion.zip</url>
     <changelog>https://github.com/IDellamea/PRUEBA_WPF_Actaulizacion/releases/tag/v1.0.1</changelog>
     <mandatory>true</mandatory>
-    <checksum algorithm="MD5">f6051fdb20e73273ee3046228711e991</checksum>
+    <checksum algorithm="MD5">fd840a4a558ed33b8cea0c678cdbbfbc</checksum>
 </item>
